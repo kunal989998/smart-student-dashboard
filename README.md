@@ -1,2 +1,2 @@
 # smart-student-dashboard
-A modular and futuristic student dashboard built using Flask and Tailwind CSS. Includes DSA Lab, Logic Lab, Secure Transaction Lab, and Data Visualization features. Secure login, dark mode, splash screen, and responsive design make it perfect for B.Tech CSE students.
+A simple Smart Student Dashboard made with Python's Tkinter GUI. Features include a splash screen, secure login, dashboard with lab modules (DSA, Logic, Security, Data), dark mode toggle, and exit confirmation. Designed for B.Tech students to simplify lab access.
